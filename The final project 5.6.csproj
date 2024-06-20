@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>The_final_project_5._6</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  
+  </PropertyGroup>
+
+</Project>
